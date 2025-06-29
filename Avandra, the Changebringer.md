@@ -17,7 +17,7 @@ And when you walk away, the world is never quite the same.
 ### Signs of Her Favor
 A sudden lucky break. A coin landing just right. The right road appearing when you feared you were lost. Her symbol is a butterfly, a rising breeze, or a hand casting dice.
 :
-&nbsp;&nbsp;&nbsp;![Symbols of the Changebringer](https://static.wikia.nocookie.net/criticalrole/images/3/3f/Avandra_-_Claudio_Pozas.png) {width:250px,mix-blend-mode:multiply}
+&nbsp;&nbsp;&nbsp;![Symbols of the Changebringer](https://raw.githubusercontent.com/IP-DND-Resources/Deities/refs/heads/main/img/Avandra_-_Claudio_Pozas.png) {width:250px,mix-blend-mode:multiply}
 
 <div class='artist' style='bottom:50px;left:75px;'>
 ##### Symbols of the </br>Changebringer
@@ -26,7 +26,7 @@ A sudden lucky break. A coin landing just right. The right road appearing when y
 
 \column
 
-![Symbols of the Changebringer](https://static.wikia.nocookie.net/criticalrole/images/3/3f/Changebringer.png) {width:300px,mix-blend-mode:multiply}
+![Symbols of the Changebringer](https://raw.githubusercontent.com/IP-DND-Resources/Deities/refs/heads/main/img/Changebringer.png) {width:300px,mix-blend-mode:multiply}
 
 
 ### Information
@@ -67,7 +67,6 @@ Avandra has taken no exarch into her service in ages. She chooses to interact di
 ### Lore
 #### Avandra and the halflings
 According to halfling legend, Melora and Sehanine created the halflings together, giving the race a love of nature and the gift of stealth. When their interest waned, Melora and Sehanine stopped looking after the race, or so the legends go, and halflings made their own way in the world. They say Avandra, the god of luck, admired their resourcefulness and adopted them, favoring them with good fortune. Not all halflings worship Avandra, but nearly all breathe a prayer of thanks to her when fortune favors them.
-Avandra and the first doppelganger
 
 #### Avandra and the first doppelganger
 When the world was young, Avandra was deeply involved in the lives of its creatures. She delighted in making their lives better. One mortal who was the object of Avandra's favor was a beautiful woman who was pursued by a cruel suitor. This suitor set his servants on her like hunting dogs. Two times Avandra helped the woman to flee or fight by changing her luck, and each time the woman praised Avandra after her escape.
@@ -75,7 +74,6 @@ When the world was young, Avandra was deeply involved in the lives of its creatu
 The third time the woman was threatened, Avandra gifted her with the power to change her form so that she could save herself from any future threat. The woman used her power to become an assassin, killing her suitor and all who served him. When Avandra sought her out to rebuke her, the woman used her power to hide from the goddess. By the time Avandra found the woman, her children's children had given birth to many more offspring, all having the power to change shape. The goddess's gift, once given, could not be taken away. Thus the race of doppelgangers and their descendants, the changelings, were born.
 
 From that episode Avandra learned a bitter lesson about being overly generous to mortals. Ever since then, she has been careful to help mortals only in small ways, often hiding her hand. By allowing mortals to face their own problems, Avandra provides them with the chance to discover their full potential.
-The Divine Compromises
 
 #### The Divine Compromises
 When the immortals had won the war against the primordials, they fought among themselves for dominion over various aspects of the natural world. Zehir contested with Pelor over mastery of the sky, for the sun banished darkness. Pelor in turn fought with Khala, whose icy mists and snows blocked the life-giving rays of the sun. Each of Pelor's opponents gathered allies, and Pelor had allies of his own. On one side stood Corellon, Khala, Zehir, and Sehanine, while on the other stood Pelor, Erathis, Moradin, and Melora. The two forces argued for ages to no avail, leaving hurts and grudges that linger still.
@@ -83,7 +81,7 @@ When the immortals had won the war against the primordials, they fought among th
 At last Avandra parlayed between the two factions. To settle the argument between Pelor and Zehir, she offered day and night. As a compromise between Khala and Pelor, she proposed alternating seasons of summer and winter. The gods, weary of their quarrels, agreed. Pelor abides faithfully by his agreement with Zehir, but from time to time Zehir seeks to shadow the sun during daytime with an eclipse. Khala is no more, but the Raven Queen-who holds sway over winter now-honors the ancient pact. Yet she also tests Pelor's resolve, seeking to end summers early and delaying springs as long as she can. In this way, autumn snows and spring thaws can come early or late. 
 
 {{imageMaskCorner22,--offsetX:50%,--offsetY:-55%,--rotation:0
-  ![](https://cdnb.artstation.com/p/assets/images/images/015/077/629/large/pfenix-artwork-avandra.jpg){height:650px,right:-10px,bottom:-10px}
+  ![](https://raw.githubusercontent.com/IP-DND-Resources/Deities/refs/heads/main/img/pfenix-artwork-avandra.jpg){height:650px,right:-10px,bottom:-10px}
 }}
 <!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
      Use --offsetY to shift the mask up or down
