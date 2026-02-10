@@ -81,9 +81,9 @@ Long before mortal memory, Sarenrae kindled the first sunrise with a single brea
 #### The Flame of Redemption
 Legends speak of Sarenrae walking among mortals in disguise, offering chances to those on the edge. In one such tale, she spent seven years as a healer in a warlord’s camp, changing the hearts of warriors one by one until peace was brokered. Not by blades, but by forgiveness.
 
-#### The Fall of the Mad God
+#### The Fall of the Tharizdun
 
-When the Mad God Rovagug rose to devour all creation, it was Sarenrae who first lifted her blade, her fire burning brighter than the world's fear. She did not strike out of hatred, but with a sorrowful heart, knowing that mercy had been refused and the world left no other path. Her flame scorched the earth as she helped bind him beneath the world, a scar that even time could not fully heal. In the Age of Arcanum, when the Betrayer Gods turned on their kin, it was again Sarenrae who stood in judgment, casting the Chained Oblivion into darkness, though it nearly shattered her. And still, to this day, her followers say she grieves not for the evil she destroyed, but for the good it might once have been.
+When Tharizdun, the Chained Oblivion rose to devour all creation, it was Sarenrae who first lifted her blade, her fire burning brighter than the world's fear. She did not strike out of hatred, but with a sorrowful heart, knowing that mercy had been refused and the world left no other path. Her flame scorched the earth as she helped bind him beneath the world, a scar that even time could not fully heal. In the Age of Arcanum, when the Betrayer Gods turned on their kin, it was again Sarenrae who stood in judgment, casting the Chained Oblivion into darkness, though it nearly shattered her. And still, to this day, her followers say she grieves not for the evil she destroyed, but for the good it might once have been.
 
 
 
