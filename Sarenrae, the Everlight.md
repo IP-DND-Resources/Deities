@@ -1,7 +1,7 @@
 # Sarenrae, the Everlight
 The desert holds its breath before the dawn. A final star flickers against the coming blaze. A prayer is whispered in the hush, not for victory, but for peace. A blade is cleaned, not from bloodlust, but from duty. Then the first light crests the horizon, golden and warm. The darkness flees not in fear, but in release. That is Sarenrae.
 
-She is the Everlight — goddess of healing, redemption, and the fire that cleanses. She walks where hope flickers low, where cruelty has left scars too deep for mortal balm. Her hands offer mercy, her eyes weep for those who turn it away, and her flame is patient, until it must burn.
+She is the Everlight: goddess of healing, redemption, and the fire that cleanses. She walks where hope flickers low, where cruelty has left scars too deep for mortal balm. Her hands offer mercy, her eyes weep for those who turn it away, and her flame is patient, until it must burn.
 
 To follow Sarenrae is to believe that the broken can be mended, that even the vilest shadow once had light. Her path is not soft; it is radiant and raw, demanding courage greater than hatred. Her followers are healers and redeemers, paladins with weeping eyes, exiles turned protectors. They hold no illusions, only the will to choose grace even when the world offers blood.
 
@@ -12,11 +12,11 @@ Sarenrae does not promise safety, she offers a choice; Be the light. Even when i
 ### A Follower’s Flame
 You are not perfect. You are not meant to be. You are meant to rise.
 
-In the Everlight’s gaze, your past does not chain you. Every wound you carry, every failure you regret, is kindling — and from it, you burn brighter. You are the proof that change is possible. That fire can be mercy. That even when the world chooses cruelty, you can answer with grace.
+In the Everlight’s gaze, your past does not chain you. Every wound you carry, every failure you regret is kindling and from it, you burn brighter. You are the proof that change is possible. That fire can be mercy and that even when the world chooses cruelty, you can answer with grace.
 
 You are the light in the darkened hall, a flame that does not falter, a hand that does not strike, until it must.
 
-Let others mock your hope. Let them say the world cannot be redeemed. Then prove them wrong — with every life you save, every enemy you spare, every wrong you set right, even when it breaks your heart. Because the dawn always comes. And you are already shining.
+Let others mock your hope. Let them say the world cannot be redeemed. Then prove them wrong with every life you save, every enemy you spare, every wrong you set right, even when it breaks your heart, because the dawn always comes, and you are already shining.
 
 ### Signs of Her Favor
 The warmth that lingers long after the fire has died. A golden ray of light breaking through stormclouds. The hush before sunrise, where the world feels held. A wound that closes without a scar. Her symbol appears in halos of sunlit dust, in the gleam of polished brass, or in flames that flicker but do not consume. A voice in your heart says: “Try again.”
@@ -42,7 +42,7 @@ The warmth that lingers long after the fire has died. A golden ray of light brea
 - **Province** Life, Light, Fire, Redemption
 - **Symbol** A golden sunburst with angelic wings or a flaming ankh
 - **Alignment** Neutral Good
-- **Worshipers** Elves, centaurs
+- **Worshipers** Human, Aasimar, Tieflings, Halflings
 - **Holy Day** Spring Equinox
 - **Role** Goddess of Redemption, Healing, and the Cleansing Flame
 :::
